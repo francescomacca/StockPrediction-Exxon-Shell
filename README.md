@@ -11,8 +11,8 @@ It compares multiple ML models:
 
 ## Files
 - `main.py` → source code
-- `report.pdf` → detailed explanation
-- `data/` → sample datasets
+- `relazione.pdf` → detailed explanation
+- `HistoricalDataShell` `HistoricalDataExxon` → sample datasets
 
 libraries
 pandas
