@@ -10,7 +10,7 @@ It compares multiple ML models:
 - LSTM (Deep Learning)
 
 ## Files
-- `main.py` → source code
+- `project.ipynb` → source code
 - `relazione.pdf` → detailed explanation
 - `HistoricalDataShell` `HistoricalDataExxon` → sample datasets
 
